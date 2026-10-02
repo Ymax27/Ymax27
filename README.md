@@ -38,7 +38,7 @@
 
 <div align="center">
 
-### Currently building
+### Currently & done building
 
 </div>
 
