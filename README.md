@@ -20,17 +20,7 @@
 
 ### Stack
 
-<img src="https://img.shields.io/badge/Python-0a192f?style=for-the-badge&logo=python&logoColor=64FFDA" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=64FFDA" alt="Django"/>
-<img src="https://img.shields.io/badge/FastAPI-0a192f?style=for-the-badge&logo=fastapi&logoColor=64FFDA" alt="FastAPI"/>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=64FFDA" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=64FFDA" alt="React"/>
-<img src="https://img.shields.io/badge/Bash-0a192f?style=for-the-badge&logo=gnubash&logoColor=64FFDA" alt="Bash"/>
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=64FFDA" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-0a192f?style=for-the-badge&logo=docker&logoColor=64FFDA" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-0a192f?style=for-the-badge&logo=git&logoColor=64FFDA" alt="Git"/>
+<img src="assets/stack-carousel.svg" alt="stack carousel" width="700"/>
 
 </div>
 
