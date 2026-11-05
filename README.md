@@ -57,8 +57,8 @@ Publier des articles, de gérer leur inventaire et de communiquer en temps réel
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ymax27&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64FFDA&icon_color=64FFDA&text_color=ccd6f6&ring_color=64FFDA" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymax27&layout=compact&hide_border=true&bg_color=0a192f&title_color=64FFDA&text_color=ccd6f6" height="165" alt="Top languages"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ymax27&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64FFDA&icon_color=64FFDA&text_color=ccd6f6&ring_color=64FFDA" height="165" alt="GitHub stats"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymax27&layout=compact&hide_border=true&bg_color=0a192f&title_color=64FFDA&text_color=ccd6f6" height="165" alt="Top languages"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ymax27&hide_border=true&background=0a192f&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=ccd6f6&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0" alt="GitHub streak"/>
 
